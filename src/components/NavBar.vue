@@ -23,6 +23,11 @@
             >Sign In
           </router-link>
         </li>
+        <li class="nav-item">
+          <router-link :to="{ name: 'Register' }" class="nav-link"
+            >Sign Up
+          </router-link>
+        </li>
       </ul>
     </div>
   </nav>
