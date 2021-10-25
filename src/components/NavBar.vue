@@ -1,9 +1,13 @@
 <template>
-  <div class="home"></div>
+
 </template>
 
 <script>
 export default {
-  name: "Home",
+  name: "NavBar.vue"
 };
 </script>
+
+<style scoped>
+
+</style>
